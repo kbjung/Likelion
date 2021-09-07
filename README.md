@@ -9,3 +9,4 @@
 ### 2. 기초
   + 같이 푸는 python
     - 02. 순차(input, int, list, sum, max, min, dic에 추가, 제거하기)
+    - 정리중...

@@ -15,8 +15,9 @@
     - 06. 같이 풀어보기(05. 직접 풀어보기 해설) [폴더](https://github.com/kbjung/Likelion/tree/main/02.%20%5B%EA%B8%B0%EC%B4%88%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/06.%20%EA%B0%99%EC%9D%B4%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0)
 
 ### 03. 심화
-  - 02. 실시간 검색어 확인하기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/02.%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EA%B2%80%EC%83%89%EC%96%B4%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
-  - 03. 날씨 정보 받아오기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/03.%20%EB%82%A0%EC%94%A8%20%EC%A0%95%EB%B3%B4%20%EB%B0%9B%EC%95%84%EC%98%A4%EA%B8%B0)
-  - 04. 번역하기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/04.%20%EB%B2%88%EC%97%AD%ED%95%98%EA%B8%B0)
-  - 05. 메일 보내기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/05.%20%EB%A9%94%EC%9D%BC%20%EB%B3%B4%EB%82%B4%EA%B8%B0)
-  - 06. 같이 풀어보기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/06.%20%EA%B0%99%EC%9D%B4%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0)
+  + 같이 푸는 PYTHON
+    - 02. 실시간 검색어 확인하기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/02.%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EA%B2%80%EC%83%89%EC%96%B4%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+    - 03. 날씨 정보 받아오기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/03.%20%EB%82%A0%EC%94%A8%20%EC%A0%95%EB%B3%B4%20%EB%B0%9B%EC%95%84%EC%98%A4%EA%B8%B0)
+    - 04. 번역하기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/04.%20%EB%B2%88%EC%97%AD%ED%95%98%EA%B8%B0)
+    - 05. 메일 보내기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/05.%20%EB%A9%94%EC%9D%BC%20%EB%B3%B4%EB%82%B4%EA%B8%B0)
+    - 06. 같이 풀어보기 [폴더](https://github.com/kbjung/Likelion/tree/main/03.%20%5B%EC%8B%AC%ED%99%94%5D%20%EA%B0%99%EC%9D%B4%20%ED%91%B8%EB%8A%94%20PYTHON/06.%20%EA%B0%99%EC%9D%B4%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0)
